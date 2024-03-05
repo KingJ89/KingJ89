@@ -1,4 +1,4 @@
-![Masterhead](https://images.unsplash.com/photo-1523800503107-5bc3ba2a6f81?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Masterhead](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZ3JhbW1pbmclMjBiYW5uZXJzfGVufDB8fDB8fHww)
 <h1 align="center">Hi 👋, I'm Jan Yaya Mutewera</h1>
 <h3 align="center">👋 Hi there! I'm Jan Yaya Mutewera, a passionate software engineer and computer & network technician based in Polokwane, South Africa. 💻 With expertise in both software engineering and computer networking, I specialize in crafting efficient solutions and ensuring seamless connectivity. 🚀 Currently, I'm focused on honing my skills and contributing to impactful projects in the tech industry. 🤝 I'm always open to collaboration and eager to connect with like-minded professionals to tackle interesting challenges together. ✉️ Feel free to reach out to me to discuss opportunities, collaborations, or simply to connect!</h3>
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/3rCC.mp4">
