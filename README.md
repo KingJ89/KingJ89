@@ -22,6 +22,34 @@
 
 - ⚡ **Fun Fact:** I love **two things**: My family and **coding**.
 
+
+### 🌟 Projects and Portfolio Highlights
+Here are some of my current and past projects:
+
+| **Project Name**          | **Description**                                                                 | **Tech Stack**             |
+|----------------------------|---------------------------------------------------------------------------------|----------------------------|
+| Msaeed Cellular Web App    | A dynamic e-commerce platform for mobile and accessory sales.                   | HTML, CSS, JavaScript      |
+| Auction Management System | A powerful tool for managing online auctions with real-time bidding.            | Python, Flask, MySQL       |
+| POS System MVP             | Point-of-sale system for inventory and sales management.                        | Python, LAMP Stack         |
+| ZimConnect E-commerce App  | Integrated payment, reporting, and inventory tools for online retail.           | HTML, CSS, JavaScript, APIs|
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/@janmutewera1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/jan-mutewera-2406419a" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCQZPAXMT0DO-ERCBUYO9PJA" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</p>
+
+---
 ---
 
 ### 📈 Interview Preparation
