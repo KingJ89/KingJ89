@@ -63,11 +63,28 @@ Currently developing a **Webstack Portfolio Project ZIM-CONNECT**, focusing on p
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingj89&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingj89&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingj89&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingj89&show_icons=true&locale=en&theme=radical&hide_title=true&custom_title=Jan%20Yaya%20Mutewera%27s%20Stats&line_height=24" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingj89&theme=radical" alt="GitHub Streak Stats" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingj89&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
+</div>
+
+---
+
+#### ⭐ Key Metrics
+- **Commits**: Over 300+ contributions in the past year.
+- **Repositories**: Actively managing multiple repositories with diverse tech stacks.
+- **Focus**: Python, JavaScript, and DevOps tools, showcasing adaptability and technical expertise.
+
+#### 🚀 Highlights
+- Collaboration on open-source projects with a focus on **clean code** and **automation**.
+- Consistent daily activity contributing to personal growth and community development.
 
 ---
 
