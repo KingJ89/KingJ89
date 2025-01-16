@@ -1,8 +1,7 @@
 ![Masterhead](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZ3JhbW1pbmclMjBiYW5uZXJzfGVufDB8fDB8fHww)
 
 <h1 align="center">Hi 👋, I'm Jan Yaya Mutewera</h1>
-<h3 align="center">A passionate software engineer and computer & network technician based in Polokwane, South Africa.</h3>
-
+<h3 align="center">👨‍💻 Innovator | Software Engineer | Network Technician | Problem Solver 🚀</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
