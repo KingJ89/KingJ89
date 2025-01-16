@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Jan Yaya Mutewera</h1>
 <h3 align="center">👨‍💻 Innovator | Software Engineer | Network Technician | Problem Solver 🚀</h3>
+
+
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ---
