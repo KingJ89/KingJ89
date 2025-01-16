@@ -7,10 +7,20 @@
 
 ---
 
-### 🔭 Current Focus
-- Working on **Msaeed Cellular Web App**: [msaeedcellular.com](https://msaeedcellular.com)
-- Specializing in **Software Engineering Backend **.
-- Collaborating on **Auction Management Project**: [Repo](https://github.com/KingJ89/auction_management.git)
+- 🔭 **Currently Working On:**
+  - [Msaeed Cellular Web App](https://msaeedcellular.com)
+  - [Auction Management Project](https://github.com/KingJ89/auction_management.git)
+  - ALX Specialization: System Engineering & DevOps
+
+- 🌱 **Currently Learning:**
+  - Advanced DevOps techniques
+  - Cutting-edge software engineering tools and practices
+
+- 💬 **Ask Me About:**
+  - Programming Languages: **C, C++, Python, Bash**
+  - Tools: **Emacs, VIM, Docker, Git**
+
+- ⚡ **Fun Fact:** I love **two things**: My family and **coding**.
 
 ---
 
